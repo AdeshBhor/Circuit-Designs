@@ -1,6 +1,6 @@
 # Circuit-Designs
 
-I have designed various circuits and have experience using NI Multisim and Eagle. These are a few of my projects. I have worked on over 50-100 circuit designs so far in order to gain experience using these softwares and design boards.
+I have designed various circuits and have experience using NI Multisim and Eagle. These are a few of my projects. I have worked on over 50 circuits so far in order to gain experience using these software and design boards.
 ![image](https://user-images.githubusercontent.com/119375190/220454974-1afeabdc-55fd-4945-a04b-e2e410c6457c.png)
 ![image](https://user-images.githubusercontent.com/119375190/220453774-67477e91-1f40-4149-81b8-38d153edf88d.png)
 ![image](https://user-images.githubusercontent.com/119375190/220454046-fe67ec8f-5ec2-446e-bdf4-d792206a49d6.png)
